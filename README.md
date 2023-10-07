@@ -8,6 +8,8 @@ Then subdomain share could be something for you!
 ## What you get:
 * Can ask for any type of records
 * Use it to get your own mail, link/URL and ect...
+* Get displayed on https://stio.studio/#Sub-Domain-Share (if you want)
+
 ## You don't get:
 * To use it for bad things
 
@@ -15,6 +17,7 @@ Then subdomain share could be something for you!
 * Do not spam
 * Send your request the right way
 * Have patience
+* Have in mind that not everything gets accepted
 
 # How to contact me:
 * Send me an email to [subdomain-share](mailto:subdomain-share@stio.studio)
