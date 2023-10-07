@@ -1,9 +1,9 @@
 # Subshare
-<h4>
+<big>
 Want an URL that is yours?<br>
 Want it for free?<br>
 Then subdomain share could be something for you!
-</h4>
+</big>
 
 ## What you get:
 * Can ask for any type of records
