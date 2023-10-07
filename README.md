@@ -13,7 +13,7 @@ Then subdomain share could be something for you!
 
 ## Rules:
 * Do not spam
-* Send your request the right way ([Go to](#How%20you%20should%20send%20it:))
+* Send your request the right way
 * Have patience
 
 # How to contact me:
